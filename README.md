@@ -15,3 +15,4 @@ admin_orders.php - страница где в виде таблицы вывод
 ![изображение](https://github.com/user-attachments/assets/e9b35a11-2c95-4007-9bca-2fb15344b38f)
 order_details.php?id=10
 ![изображение](https://github.com/user-attachments/assets/0dd0b721-e4e4-4ca6-8bca-bf1d610a12ae)
+machines_db(4).sql - снапшот базы данных
